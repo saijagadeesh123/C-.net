@@ -29,8 +29,8 @@ namespace delegates
 }
 }
  delegate bool ispromote(employee e1); //delegate creation
-    delegate void multicastedelegate();
-class Program
+ delegate void multicastedelegate();
+class delegatesdemo
 {
 static void Main(string[] args)
 {
