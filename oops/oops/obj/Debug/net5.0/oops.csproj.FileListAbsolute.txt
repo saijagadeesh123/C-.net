@@ -1,0 +1,16 @@
+C:\Users\saijagadeesh\source\repos\oops\oops\obj\Debug\net5.0\oops.csprojAssemblyReference.cache
+C:\Users\saijagadeesh\source\repos\oops\oops\obj\Debug\net5.0\oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saijagadeesh\source\repos\oops\oops\obj\Debug\net5.0\oops.AssemblyInfoInputs.cache
+C:\Users\saijagadeesh\source\repos\oops\oops\obj\Debug\net5.0\oops.AssemblyInfo.cs
+C:\Users\saijagadeesh\source\repos\oops\oops\obj\Debug\net5.0\oops.csproj.CoreCompileInputs.cache
+C:\Users\saijagadeesh\source\repos\oops\oops\bin\Debug\net5.0\oops.exe
+C:\Users\saijagadeesh\source\repos\oops\oops\bin\Debug\net5.0\oops.deps.json
+C:\Users\saijagadeesh\source\repos\oops\oops\bin\Debug\net5.0\oops.runtimeconfig.json
+C:\Users\saijagadeesh\source\repos\oops\oops\bin\Debug\net5.0\oops.runtimeconfig.dev.json
+C:\Users\saijagadeesh\source\repos\oops\oops\bin\Debug\net5.0\oops.dll
+C:\Users\saijagadeesh\source\repos\oops\oops\bin\Debug\net5.0\ref\oops.dll
+C:\Users\saijagadeesh\source\repos\oops\oops\bin\Debug\net5.0\oops.pdb
+C:\Users\saijagadeesh\source\repos\oops\oops\obj\Debug\net5.0\oops.dll
+C:\Users\saijagadeesh\source\repos\oops\oops\obj\Debug\net5.0\ref\oops.dll
+C:\Users\saijagadeesh\source\repos\oops\oops\obj\Debug\net5.0\oops.pdb
+C:\Users\saijagadeesh\source\repos\oops\oops\obj\Debug\net5.0\oops.genruntimeconfig.cache
