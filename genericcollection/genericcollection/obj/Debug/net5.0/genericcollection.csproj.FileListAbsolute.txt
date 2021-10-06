@@ -1,0 +1,16 @@
+C:\Users\saijagadeesh\source\repos\genericcollection\genericcollection\bin\Debug\net5.0\genericcollection.exe
+C:\Users\saijagadeesh\source\repos\genericcollection\genericcollection\bin\Debug\net5.0\genericcollection.deps.json
+C:\Users\saijagadeesh\source\repos\genericcollection\genericcollection\bin\Debug\net5.0\genericcollection.runtimeconfig.json
+C:\Users\saijagadeesh\source\repos\genericcollection\genericcollection\bin\Debug\net5.0\genericcollection.runtimeconfig.dev.json
+C:\Users\saijagadeesh\source\repos\genericcollection\genericcollection\bin\Debug\net5.0\genericcollection.dll
+C:\Users\saijagadeesh\source\repos\genericcollection\genericcollection\bin\Debug\net5.0\ref\genericcollection.dll
+C:\Users\saijagadeesh\source\repos\genericcollection\genericcollection\bin\Debug\net5.0\genericcollection.pdb
+C:\Users\saijagadeesh\source\repos\genericcollection\genericcollection\obj\Debug\net5.0\genericcollection.csprojAssemblyReference.cache
+C:\Users\saijagadeesh\source\repos\genericcollection\genericcollection\obj\Debug\net5.0\genericcollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saijagadeesh\source\repos\genericcollection\genericcollection\obj\Debug\net5.0\genericcollection.AssemblyInfoInputs.cache
+C:\Users\saijagadeesh\source\repos\genericcollection\genericcollection\obj\Debug\net5.0\genericcollection.AssemblyInfo.cs
+C:\Users\saijagadeesh\source\repos\genericcollection\genericcollection\obj\Debug\net5.0\genericcollection.csproj.CoreCompileInputs.cache
+C:\Users\saijagadeesh\source\repos\genericcollection\genericcollection\obj\Debug\net5.0\genericcollection.dll
+C:\Users\saijagadeesh\source\repos\genericcollection\genericcollection\obj\Debug\net5.0\ref\genericcollection.dll
+C:\Users\saijagadeesh\source\repos\genericcollection\genericcollection\obj\Debug\net5.0\genericcollection.pdb
+C:\Users\saijagadeesh\source\repos\genericcollection\genericcollection\obj\Debug\net5.0\genericcollection.genruntimeconfig.cache
