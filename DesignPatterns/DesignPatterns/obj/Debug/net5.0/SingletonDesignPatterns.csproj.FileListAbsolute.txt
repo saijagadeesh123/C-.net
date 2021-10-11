@@ -1,0 +1,15 @@
+C:\Users\saijagadeesh\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\SingletonDesignPatterns.exe
+C:\Users\saijagadeesh\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\SingletonDesignPatterns.deps.json
+C:\Users\saijagadeesh\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\SingletonDesignPatterns.runtimeconfig.json
+C:\Users\saijagadeesh\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\SingletonDesignPatterns.runtimeconfig.dev.json
+C:\Users\saijagadeesh\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\SingletonDesignPatterns.dll
+C:\Users\saijagadeesh\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\ref\SingletonDesignPatterns.dll
+C:\Users\saijagadeesh\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\SingletonDesignPatterns.pdb
+C:\Users\saijagadeesh\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\SingletonDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saijagadeesh\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\SingletonDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\saijagadeesh\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\SingletonDesignPatterns.AssemblyInfo.cs
+C:\Users\saijagadeesh\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\SingletonDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\saijagadeesh\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\SingletonDesignPatterns.dll
+C:\Users\saijagadeesh\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\ref\SingletonDesignPatterns.dll
+C:\Users\saijagadeesh\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\SingletonDesignPatterns.pdb
+C:\Users\saijagadeesh\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\SingletonDesignPatterns.genruntimeconfig.cache
